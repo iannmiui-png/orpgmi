@@ -109,7 +109,7 @@
 [3] GK ;\\ ιι+ιι = 34 (logic)
 [2] ij ;\\ a+b=c (algebra)
 [1] P1 ;\\ memristor (cold)
-[0] P5 ;\\ oscilaltor (hot)
+[0] P5 ;\\ oscillator (hot)
 [t]= # pgmpiet P5 "H" ;\\ comment: oragam.pgm.piet "P5" header
 [s] = 105 17 ;\\ 240518692878[ι, μ, 17]_Mc91 
 [r] = 255 ;\\ r = "referential", &nbsp; = 32, if null = affix
